@@ -13,7 +13,7 @@ The assessment consists of three separate solutions, all implemented in Python w
 ## 🏗️ Project Structure
 
 ```
-homrtask/
+_final_/
 ├── selenium_framework/          # Selenium-based test framework
 │   ├── config/                 # Configuration management
 │   ├── core/                   # Core framework components
@@ -57,7 +57,7 @@ homrtask/
 #### Option 1: Quick Setup (Recommended)
 ```bash
 git clone <repository-url>
-cd homrtask
+cd _final_
 chmod +x setup.sh
 ./setup.sh
 ```
@@ -67,7 +67,7 @@ chmod +x setup.sh
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd homrtask
+   cd _final_
    ```
 
 2. **Setup API Framework**
