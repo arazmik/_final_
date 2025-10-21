@@ -120,7 +120,7 @@ python run_tests.py
 - **Features**: Cross-browser testing, parallel execution, screenshot capture, comprehensive reporting
 
 ### API Framework
-- **Target API**: JSONPlaceholder (https://jsonplaceholder.typicode.com)
+- **Target API**: JSONPlaceholder (https://catfact.ninja, https://jsonplaceholder.typicode.com)
 - **Endpoints**: Posts, Users, Comments APIs
 - **Architecture**: Service Layer Pattern
 - **Features**: Schema validation, response time validation, integration testing, retry logic
