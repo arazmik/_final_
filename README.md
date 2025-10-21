@@ -56,7 +56,7 @@ _final_/
 
 #### Option 1: Quick Setup (Recommended)
 ```bash
-git clone <repository-url>
+git clone https://github.com/arazmik/_final_.git
 cd _final_
 chmod +x setup.sh
 ./setup.sh
@@ -66,7 +66,7 @@ chmod +x setup.sh
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/arazmik/_final_.git
    cd _final_
    ```
 
