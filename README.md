@@ -273,7 +273,7 @@ Each framework includes:
 
 ## 🚀 Demo
 
-*Note: Replace with actual GIF showing test execution for both frameworks*
+*Note: Will be replace with actual GIF showing test execution for both frameworks*
 
 ![Test Execution Demo](demo.gif)
 
